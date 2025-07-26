@@ -1,0 +1,13 @@
+streamlit
+audio-recorder-streamlit
+sounddevice
+soundfile
+SpeechRecognition
+gTTS
+sentence-transformers
+google-generativeai
+faiss-cpu
+numpy
+python-dotenv
+tenacity
+wheel
